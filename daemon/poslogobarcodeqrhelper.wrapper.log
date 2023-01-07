@@ -1,0 +1,32 @@
+2023-01-06 02:09:52 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\posLogo\node_modules\node-windows\lib\wrapper.js --file D:\posLogo\route.js --scriptoptions= --log "POS Logo & Barcode & QR Helper wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-01-06 02:09:52 - Started 6980
+2023-01-06 02:10:17 - Stopping poslogobarcodeqrhelper.exe
+2023-01-06 02:10:17 - ProcessKill 6980
+2023-01-06 02:10:17 - Found child process: 9532 Name: conhost.exe
+2023-01-06 02:10:17 - Found child process: 15800 Name: node.exe
+2023-01-06 02:10:17 - Stopping process 9532
+2023-01-06 02:10:17 - Send SIGINT 9532
+2023-01-06 02:10:17 - SIGINT to 9532 failed - Killing as fallback
+2023-01-06 02:10:17 - Stopping process 15800
+2023-01-06 02:10:17 - Send SIGINT 15800
+2023-01-06 02:10:17 - SIGINT to 15800 failed - Killing as fallback
+2023-01-06 02:10:17 - Stopping process 6980
+2023-01-06 02:10:17 - Send SIGINT 6980
+2023-01-06 02:10:17 - SIGINT to 6980 failed - Killing as fallback
+2023-01-06 02:10:17 - Finished poslogobarcodeqrhelper.exe
+2023-01-06 02:10:41 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\posLogo\node_modules\node-windows\lib\wrapper.js --file D:\posLogo\route.js --scriptoptions= --log "POS Logo & Barcode & QR Helper wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-01-06 02:10:41 - Started 1876
+2023-01-06 02:12:48 - Stopping poslogobarcodeqrhelper.exe
+2023-01-06 02:12:48 - ProcessKill 1876
+2023-01-06 02:12:48 - Found child process: 2132 Name: conhost.exe
+2023-01-06 02:12:48 - Found child process: 9556 Name: node.exe
+2023-01-06 02:12:48 - Stopping process 2132
+2023-01-06 02:12:48 - Send SIGINT 2132
+2023-01-06 02:12:48 - SIGINT to 2132 failed - Killing as fallback
+2023-01-06 02:12:48 - Stopping process 9556
+2023-01-06 02:12:48 - Send SIGINT 9556
+2023-01-06 02:12:48 - SIGINT to 9556 failed - Killing as fallback
+2023-01-06 02:12:48 - Stopping process 1876
+2023-01-06 02:12:48 - Send SIGINT 1876
+2023-01-06 02:12:48 - SIGINT to 1876 failed - Killing as fallback
+2023-01-06 02:12:48 - Finished poslogobarcodeqrhelper.exe
